@@ -1,10 +1,10 @@
 # The Go Goans
 
-The Goans are built on the ideas of Jim Weirich and co, who produced the (Ruby Koans)[https://github.com/neo/ruby_koans].
+The Goans are built on the ideas of Jim Weirich and co, who produced the [Ruby Koans](https://github.com/neo/ruby_koans).
 
 ## Dependencies
 
-The Goans are built on top of (GoConvey)[http://goconvey.co/]
+The Goans are built on top of [GoConvey](http://goconvey.co/)
 
 ## Work in Progress!
 At this stage the Goans are very much a work in progress.  I'll be pushing changes regularly as I build the project.
